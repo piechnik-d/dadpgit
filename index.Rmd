@@ -9,7 +9,7 @@ links:
   - label: Publications - Google Scholar
     url: "https://scholar.google.com/citations?user=hTxoZYwAAAAJ&hl=en"
   - label: Sample Analysis
-    url: "https://piechnik-d.github.io/dadpgit/docs/SampleAnalysis.html"
+    url: "https://piechnik-d.github.io/dadpgit/docs/SampleA.html"
 output:
   postcards::solana
 site: distill::distill_website
