@@ -3,7 +3,7 @@
     "path": "E:/Denise Employment/WEBSITE - Distill_workshop - POSTCARDs/dadpgit/dadpgit_rstudio/dadpgit/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2093823137",
     "contents": "",
     "dirty": false,
     "created": 1696032535794.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "7,9",
+        "cursorPosition": "11,62",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1696033276,
+    "lastKnownWriteTime": 1696035378,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1696033274669,
+    "last_content_update": 1696035376867,
     "read_only": false,
     "read_only_alternatives": []
 }
