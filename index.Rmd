@@ -13,7 +13,7 @@ links:
   - label: Sample Analysis - maps
     url: "https://piechnik-d.github.io/dadpgit/docs/SampleB.html"
   - label: Sample Analysis - Python
-    url: "https://piechnik-d.github.io/dadpgit/docs/SampleC.html"    
+    url: "https://piechnik-d.github.io/dadpgit/SampleC.html"    
 output:
   postcards::solana
 site: distill::distill_website
