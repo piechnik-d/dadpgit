@@ -10,6 +10,8 @@ links:
     url: "https://scholar.google.com/citations?user=hTxoZYwAAAAJ&hl=en"
   - label: Sample Analysis
     url: "https://piechnik-d.github.io/dadpgit/SampleA.html"
+  - label: Sample Analysis - maps
+    url: "https://piechnik-d.github.io/dadpgit/SampleB.html"
 output:
   postcards::solana
 site: distill::distill_website
